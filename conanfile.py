@@ -1,4 +1,4 @@
-from conans import CMake, ConanFile
+from conans import ConanFile
 from conans.tools import get
 
 
