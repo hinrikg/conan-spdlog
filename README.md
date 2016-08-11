@@ -6,11 +6,11 @@ spdlog is a very fast, header only, C++ logging library.
 
 ## Usage
 
-    $ conan install spdlog/master@hinrikg/stable
+    $ conan install spdlog/0.9.0@hinrikg/stable
 
 or add the package as a dependency in your conanfile.txt
 
     [requires]
-    spdlog/master@hinrikg/stable
+    spdlog/0.9.0@hinrikg/stable
 
 For further information on how to use Conan see [the Conan documentation](http://docs.conan.io/)
