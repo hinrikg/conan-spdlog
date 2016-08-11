@@ -1,6 +1,6 @@
 # spdlog Conan Package
 
-[Conan.io](https://conan.io) package for the [spdlog](https://github.com/gabime/spdlog) library. This package is made available at [conan.io](https://conan.io/source/spdlog/master/hinrikg/stable).
+[Conan.io](https://conan.io) package for the [spdlog](https://github.com/gabime/spdlog) library. This package is made available at [conan.io](https://conan.io/source/spdlog/0.9.0/hinrikg/stable).
 
 spdlog is a very fast, header only, C++ logging library.
 
